@@ -1,1 +1,1 @@
-Various tasks, completed throughout the courses Javascript Basic, and Javascript Fundamentals
+Various tasks, completed throughout the courses Javascript Basic, and Javascript Fundamentals @ SoftUni
